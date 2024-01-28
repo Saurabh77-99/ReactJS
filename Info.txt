@@ -1,0 +1,44 @@
+- Reactjs is used to make complex frontend
+- At the end it will get compiled in HTML,CSS and Js.
+
+- Most project don't need react in initial phase
+
+# Why Reactjs was created?
+- Phantom message problem - Facebook (Notifications & Chat)(show notifications on icon and chat both) 
+- No consistency in UI
+
+- State(kind of variable) is managed by JS
+- UI managed by DOM
+- There should be a talk between JS and DOM (sync)
+
+# React is a Library(freedom)
+
+- Core of React (State or UI manipulation,JSX)
+- Component Reusability
+- Reusing of Component (Props)
+- How to propogate change (hooks) - useState , useEffect
+- Single Page Application (SPA)
+
+# Additional Add on to React
+
+- Router (React don't have Router)[React Router DOM package]
+- State Management (React don't have state management)
+  -Redux ,Redux Toolkit,zustand
+  -Context API - gives hooks for state management
+- Class based Component
+  -Legacy code(too old)
+- BAAS Apps (Backend as a service) [Appwrite,Firebase,Supabase]
+  - social media clone,e-commerce app
+
+# After React
+- React is not a complete solution in most case
+  - No SEO
+  - Browser render of JS
+  - No routing
+
+  - Framework
+   - NextJS
+   - Gatsby
+   - Remix
+
+
