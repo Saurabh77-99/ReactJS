@@ -1,0 +1,22 @@
+react --> web --> react-dom(libraries)
+react --> mobile --> react-native
+
+To install React -
+(First way):-
+npx create-react-app project-name
+
+Package.Json
+scripts:
+start - for running
+build - its for production that goes to user
+
+npm run start 
+npm run build - create build folder
+#-------------------------------------------#
+npm install vite@latest - for Vite bundler
+npm install for node modules when running with Vite.
+npm run dev - when vite is included
+----Project cleaning
+
+
+
